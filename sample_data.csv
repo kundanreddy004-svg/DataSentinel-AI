@@ -1,0 +1,14 @@
+Student_ID,Study_Hours,Attendance,Previous_Score,Final_Result
+1,2,65,45,Fail
+2,5,80,60,Pass
+3,7,90,78,Pass
+4,3,70,50,Fail
+5,8,95,85,Pass
+6,4,75,55,Pass
+7,6,88,72,Pass
+8,,60,40,Fail
+9,5,82,65,Pass
+10,3,68,48,Fail
+11,9,98,92,Pass
+12,4,76,58,Pass
+12,4,76,58,Pass
